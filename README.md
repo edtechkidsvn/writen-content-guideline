@@ -1,5 +1,5 @@
 # Techkids guideline cho content viết
 ## Mục lục
-1. Guideline cho khung nội dung
-2. Guideline cho content viết
-3. Guideline cho hinh ảnh minh hoạ
+1. [Guideline cho khung nội dung]()
+2. [Guideline cho nội dung viết](written_content_guideline.md)
+3. [Guideline cho hinh ảnh minh hoạ](image_guideline.md)
