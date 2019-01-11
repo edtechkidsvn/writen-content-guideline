@@ -15,6 +15,7 @@ Ví dụ với nội dung sau
 
 </blockquote>
 
+
 Nội dung cần nhấn mạnh là vào chữ <b>tips</b>, cần thay đổi nhỏ như sau:
 
 - Số tiền mà Đức nhận được mỗi giờ có thể được biểu diễn bởi biểu thức sau:  
