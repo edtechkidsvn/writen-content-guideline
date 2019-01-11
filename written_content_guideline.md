@@ -7,6 +7,7 @@ Cần dùng bôi đậm để hướng sự chú ý của người đọc vào p
 - Ví dụ với nội dung sau
 
 <blockquote>
+
 - Số tiền mà Đức nhận được mỗi giờ có thể được biểu diễn bởi biểu thức sau:  
 
 <pre>100+tips</pre>
