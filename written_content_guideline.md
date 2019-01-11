@@ -4,7 +4,7 @@
 1. Nhấn mạnh đúng chỗ
 Cần dùng bôi đậm để hướng sự chú ý của người đọc vào phần nội dung mình muốn
 
-_Ví dụ với nội dung sau_
+- Ví dụ với nội dung sau
 
 <blockquote>
 - Số tiền mà Đức nhận được mỗi giờ có thể được biểu diễn bởi biểu thức sau:  
@@ -16,7 +16,7 @@ _Ví dụ với nội dung sau_
 </blockquote>
 
 
-<i>Nội dung cần nhấn mạnh là vào chữ <b>tips</b>, cần thay đổi nhỏ như sau:</i>
+- Nội dung cần nhấn mạnh là vào chữ <b>tips</b>, cần thay đổi nhỏ như sau:
 
 <blockquote>
 
