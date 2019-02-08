@@ -23,11 +23,23 @@ Ví dụ về một roadmap cho phần thực hành giao diện đăng ký ngư�
 
 Ví dụ cho việc dẫn dắt thực hành giao diện đăng kỳ người dùng
 Dẫn dắt tốt:
-  1. Thực hiện bắt sự kiện bấm nút (đây là sự kiện bắt đầu cho chuỗi event của feature)
+  1. Thực hiện bắt sự kiện submit (đây là sự kiện bắt đầu cho chuỗi event của feature)
   2. Thực hiện lấy input người dùng từ form ở trong view (đây là dữ liệu đầu tiên có được của feature)
   3. Thực hiện validate input người dùng bằng cách gọi hàm validate input từ controller, hàm validate có thể chưa tồn tại, tuy nhiên vì flow của event và data quan trọng hơn, vẫn cần gọi hàm như bình thường và báo với học viên hàm này chưa tồn tại, sẽ được viết sau
   4. Thực hiện hàm validate input trong controller
-  5. Thực hiện báo lại kết quả validate input tới người dùng trong view
-  6. Thực hiện lưu thông tin đăng ký và gửi email xác thực ở controller, ở phần này, kể cả khi firebase chưa được setup, vẫn sử dụng như bình thường rồi thực hiện sau
-  7. Thực hiện setup firebase nếu cần
-  8. Thực hiện báo lại kết quả đăng ký tới người dùng trong view
+  5. Thực hiện báo lại kết quả validate input tới người dùng trong view, HTML, CSS chưa cần phải sẵn sàng
+  6. Cập nhật HTML, CSS để hiển thị kết quả validate input
+  7. Thực hiện lưu thông tin đăng ký và gửi email xác thực ở controller, ở phần này, kể cả khi firebase chưa được setup, vẫn sử dụng như bình thường rồi thực hiện sau
+  8. Thực hiện setup firebase nếu cần
+  9. Thực hiện báo lại kết quả đăng ký tới người dùng trong view, HTML, CSS chưa cần phải sẵn sàng
+  10. Cập nhật HTML, CSS để hiển thị kết quả đăng ký
+
+Dẫn dắt không tốt:
+  1. Thực hiện HTML, CSS để thêm thông báo kết quả validate input
+  2. Setup firebase
+  3. Thực hiện setup firebase
+  4. Thực hiện lưu thông tin đăng ký và gửi email bằng firebase
+  4. Thực hiện bắt sự kiện submit và gọi đến chức năng lưu thông tin đăng ký và gửi email
+  5. Thực hiện thông báo kết quả tới người dùng
+  6. Thực hiện validate input
+  7. Thực hiện hiện thị kết quả validate input
