@@ -22,6 +22,7 @@ Ví dụ về một roadmap cho phần thực hành giao diện đăng ký ngư�
 6. Với các bài thực hành phải chuyển giữa nhiều file khác nhau, cần dẫn dắt học viên đi theo dòng chảy (flow) của sự kiện hoặc dữ liệu thay vì xây các mảnh rời rạc rồi ghép lại mà không giải thích
 
 Ví dụ cho việc dẫn dắt thực hành giao diện đăng kỳ người dùng
+
 Dẫn dắt tốt:
   1. Thực hiện bắt sự kiện submit (đây là sự kiện bắt đầu cho chuỗi event của feature)
   2. Thực hiện lấy input người dùng từ form ở trong view (đây là dữ liệu đầu tiên có được của feature)
