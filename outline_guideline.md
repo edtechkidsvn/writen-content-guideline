@@ -44,3 +44,4 @@ Dẫn dắt không tốt:
   5. Thực hiện thông báo kết quả tới người dùng
   6. Thực hiện validate input
   7. Thực hiện hiện thị kết quả validate input
+  
