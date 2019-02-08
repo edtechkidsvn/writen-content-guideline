@@ -14,20 +14,20 @@
 - Các bước này xâu chuỗi với nhau như thế nào và quan trọng hơn cả, **đóng vai trò gì cho bức tranh lớn**?
 
 Ví dụ về một roadmap cho phần thực hành giao diện đăng ký người dùng:
-..1. Dựng khung HTML, CSS (không cần giải thích tại sao vì đã được cover ở C4EJS)
-..2. Kiểm tra tính hợp lệ của thông tin người dùng nhập (Input validation là khái niệm thông dụng và hầu hết học viên đều hiểu tại sao cần chỉ cần giải thích input validation là gì chứ **không cần giải thích tại sao**)
-..3. Sử dụng firebase **để lưu thông tin đăng ký và gửi email xác nhận tới người dùng**
-..4. Refactor code **để ... <tùy thuộc vào vấn đề hiện tại của code là gì>**
+  1. Dựng khung HTML, CSS (không cần giải thích tại sao vì đã được cover ở C4EJS)
+  2. Kiểm tra tính hợp lệ của thông tin người dùng nhập (Input validation là khái niệm thông dụng và hầu hết học viên đều hiểu tại sao cần chỉ cần giải thích input validation là gì chứ **không cần giải thích tại sao**)
+  3. Sử dụng firebase **để lưu thông tin đăng ký và gửi email xác nhận tới người dùng**
+  4. Refactor code **để ... <tùy thuộc vào vấn đề hiện tại của code là gì>**
 
 6. Với các bài thực hành phải chuyển giữa nhiều file khác nhau, cần dẫn dắt học viên đi theo dòng chảy (flow) của sự kiện hoặc dữ liệu thay vì xây các mảnh rời rạc rồi ghép lại mà không giải thích
 
 Ví dụ cho việc dẫn dắt thực hành giao diện đăng kỳ người dùng
 Dẫn dắt tốt:
-..1. Thực hiện bắt sự kiện bấm nút (đây là sự kiện bắt đầu cho chuỗi event của feature)
-..2. Thực hiện lấy input người dùng từ form ở trong view (đây là dữ liệu đầu tiên có được của feature)
-..3. Thực hiện validate input người dùng bằng cách gọi hàm validate input từ controller, hàm validate có thể chưa tồn tại, tuy nhiên vì flow của event và data quan trọng hơn, vẫn cần gọi hàm như bình thường và báo với học viên hàm này chưa tồn tại, sẽ được viết sau
-..4. Thực hiện hàm validate input trong controller
-..5. Thực hiện báo lại kết quả validate input tới người dùng trong view
-..6. Thực hiện lưu thông tin đăng ký và gửi email xác thực ở controller, ở phần này, kể cả khi firebase chưa được setup, vẫn sử dụng như bình thường rồi thực hiện sau
-..7. Thực hiện setup firebase nếu cần
-..8. Thực hiện báo lại kết quả đăng ký tới người dùng trong view
+  1. Thực hiện bắt sự kiện bấm nút (đây là sự kiện bắt đầu cho chuỗi event của feature)
+  2. Thực hiện lấy input người dùng từ form ở trong view (đây là dữ liệu đầu tiên có được của feature)
+  3. Thực hiện validate input người dùng bằng cách gọi hàm validate input từ controller, hàm validate có thể chưa tồn tại, tuy nhiên vì flow của event và data quan trọng hơn, vẫn cần gọi hàm như bình thường và báo với học viên hàm này chưa tồn tại, sẽ được viết sau
+  4. Thực hiện hàm validate input trong controller
+  5. Thực hiện báo lại kết quả validate input tới người dùng trong view
+  6. Thực hiện lưu thông tin đăng ký và gửi email xác thực ở controller, ở phần này, kể cả khi firebase chưa được setup, vẫn sử dụng như bình thường rồi thực hiện sau
+  7. Thực hiện setup firebase nếu cần
+  8. Thực hiện báo lại kết quả đăng ký tới người dùng trong view
