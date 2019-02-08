@@ -9,7 +9,7 @@
 
 4. Với các bài mang tính giới thiệu, việc trả lời câu hỏi *cái gì sẽ được học, và tại sao học viên lại học chúng* quan trọng hơn việc đi vào liệt kê quá chi tiết
 
-5. Với các phần thực hành dài (trên 50 dòng), cần đưa ra **roadmap** trước khi thực hiện. Một roadmap của bài thực hành có thể tồn tại ở dạng viết hoặc vẽ, với mục đích trả lời 2 câu hỏi sau:
+5. Với các phần thực hành dài (trên 50 dòng), cần đưa ra **roadmap** trước khi trình bày phần thực hiện. Một roadmap của bài thực hành có thể tồn tại ở dạng viết hoặc vẽ, với mục đích trả lời 2 câu hỏi sau:
 - Để thực hiện được yêu cầu đề ra, các bước nhỏ hơn cần thực hiện, lần lượt là gì
 - Các bước này xâu chuỗi với nhau như thế nào và quan trọng hơn cả, **đóng vai trò gì cho bức tranh lớn**?
 
@@ -19,7 +19,7 @@ Ví dụ về một roadmap cho phần thực hành giao diện đăng ký ngư�
   3. Sử dụng firebase **để lưu thông tin đăng ký và gửi email xác nhận tới người dùng**
   4. Refactor code **để ... <tùy thuộc vào vấn đề hiện tại của code là gì>**
 
-6. Với các bài thực hành phải chuyển giữa nhiều file khác nhau, cần dẫn dắt học viên đi theo dòng chảy (flow) của sự kiện hoặc dữ liệu thay vì xây các mảnh rời rạc rồi ghép lại mà không giải thích
+6. Với các bài thực hành phải chuyển giữa nhiều file khác nhau, cần dẫn dắt học viên đi theo dòng (flow) của sự kiện hoặc dữ liệu thay vì xây các mảnh rời rạc rồi ghép lại mà không giải thích
 
 Ví dụ cho việc dẫn dắt thực hành giao diện đăng kỳ người dùng
 
