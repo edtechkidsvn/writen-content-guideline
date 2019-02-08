@@ -21,7 +21,7 @@ Ví dụ về một roadmap cho phần thực hành giao diện đăng ký ngư�
 
 Ví dụ cho việc dẫn dắt thực hành giao diện đăng kỳ người dùng
 Dẫn dắt tốt:
-1. Thực hiện bắt sự kiện bấm nút (đây là sự kiện bắt đầu cho chuối event của feature)
+1. Thực hiện bắt sự kiện bấm nút (đây là sự kiện bắt đầu cho chuỗi event của feature)
 2. Thực hiện lấy input người dùng từ form ở trong view (đây là dữ liệu đầu tiên có được của feature)
 3. Thực hiện validate input người dùng bằng cách gọi hàm validate input từ controller, hàm validate có thể chưa tồn tại, tuy nhiên vì flow của event và data quan trọng hơn, vẫn cần gọi hàm như bình thường và báo với học viên hàm này chưa tồn tại, sẽ được viết sau
 4. Thực hiện hàm validate input trong controller
