@@ -15,7 +15,7 @@ Ví dụ:
 Chức năng thực hiện đăng ký người dùng, do chức năng này tương đối phức tạp với đối tượng là người mới học, nên cần được chia nhỏ ra thành nhiều session
 
 - Tổ chức tốt:
--- Session 1: Dựng được khung project, đã có HTML và CSS, khi web chạy lên, mặc dù chưa có UI ngay, nhưng đã có dòng chữ `Register form`, không còn lỗi `undefined` hoặc `null` ở console log
+** Session 1: Dựng được khung project, đã có HTML và CSS, khi web chạy lên, mặc dù chưa có UI ngay, nhưng đã có dòng chữ `Register form`, không còn lỗi `undefined` hoặc `null` ở console log
 -- Session 2: Thực hiện giao diện Register UI, khi chạy lên đã có thể nhìn thấy giao diện, , không còn lỗi `undefined` hoặc `null` ở console log
 -- Session 3: Thực hiện đăng ký và gửi email, khi chạy lên đã có thể nhìn thấy giao diện, , không còn lỗi `undefined` hoặc `null` ở console log
 
