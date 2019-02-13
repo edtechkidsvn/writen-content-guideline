@@ -28,3 +28,11 @@ Cần dùng bôi đậm để hướng sự chú ý của người đọc vào p
 - Số tiền boa <b>(tips)</b> mỗi giờ có thể ít, có thể nhiều hoặc không có ...
 
 </blockquote>
+
+2. Nói rõ mục đích của từng thao tác của thực hành
+
+Khi yêu cầu học viên thực hiện bất kỳ một thao tác mới nào, cần nói rõ mục đích ý nghĩa của thao tác này
+
+3. Trong trường hợp ý nghĩa mục đích của thao tác thực hành quá dài **VÀ** chưa ảnh hưởng đến luồng chính của bài, có thể *nợ* học viên bằng cách nói sẽ được trình bày sau
+
+4. Trong các tình huống thực hiện code, nếu cần gọi một hàm trong khi hàm này chưa hề tồn tại, cần báo lại với người đọc ở mục chú ý và *nói rõ là sẽ được thực hiện sau*
