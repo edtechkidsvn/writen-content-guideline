@@ -29,9 +29,7 @@ Cần dùng bôi đậm để hướng sự chú ý của người đọc vào p
 
 </blockquote>
 
-2. Nói rõ mục đích của từng thao tác của thực hành
-
-Khi yêu cầu học viên thực hiện bất kỳ một thao tác mới nào, cần nói rõ mục đích ý nghĩa của thao tác này
+2. Khi yêu cầu học viên thực hiện bất kỳ một thao tác mới nào, cần nói rõ mục đích ý nghĩa của thao tác này
 
 3. Trong trường hợp ý nghĩa mục đích của thao tác thực hành quá dài **VÀ** chưa ảnh hưởng đến luồng chính của bài, có thể *nợ* học viên bằng cách nói sẽ được trình bày sau
 
