@@ -20,8 +20,8 @@ Tổ chức tốt:
   3. Thực hiện đăng ký và gửi email, khi chạy lên đã có thể nhìn thấy giao diện, , không còn lỗi `undefined` hoặc `null` ở console log
 
 Tổ chức không tốt:
-  1. Dựng được khung project, tuy nhiên khi web chạy lên chưa có khác biệt gì
-  2. Thực hiện Register UI, khi chạy lên đã có thể nhìn thấy giao diện nhưng vẫn còn thiếu một vài input và không yêu cầu học viên làm gì thêm (không có bài tập để học viên thực hiện nốt phần thiếu)
+   1. Dựng được khung project, tuy nhiên khi web chạy lên chưa có khác biệt gì
+   2. Thực hiện Register UI, khi chạy lên đã có thể nhìn thấy giao diện nhưng vẫn còn thiếu một vài input và không yêu cầu học viên làm gì thêm (không có bài tập để học viên thực hiện nốt phần thiếu)
 
 6. Với các phần thực hành dài (trên 50 dòng), cần đưa ra **roadmap** trước khi trình bày phần thực hiện. Một roadmap của bài thực hành có thể tồn tại ở dạng viết hoặc vẽ, với mục đích trả lời 2 câu hỏi sau:
 - Để thực hiện được yêu cầu đề ra, các bước nhỏ hơn cần thực hiện, lần lượt là gì
